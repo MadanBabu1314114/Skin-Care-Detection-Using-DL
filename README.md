@@ -31,7 +31,7 @@ cd Skin-Care-Detection-Using-DL
 ![image](https://github.com/MadanBabu1314114/Skin-Care-Detection-Using-DL/assets/123216438/033ce57e-96a5-4ac6-b72b-a53f8122f2a1)
 
 
-The skin care detection model is implemented using a CNN architecture. The CNN has been trained on a labeled dataset to identify skin care products.
+The skin care detection model is implemented using a CNN architecture. The CNN has been trained on a labeled dataset to identify skin type.
 
 ## Results
 
