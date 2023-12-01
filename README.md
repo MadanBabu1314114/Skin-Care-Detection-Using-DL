@@ -14,25 +14,17 @@ Ensure you have the following dependencies installed before running the project:
 - Keras
 - NumPy
 - Matplotlib
-
  
 
 ## Usage
 
-1. Clone the repository:
+Clone the repository:
 
 ```bash
 git clone https://github.com/MadanBabu1314114/Skin-Care-Detection-Using-DL.git
 cd Skin-Care-Detection-Using-DL
 ```
-
  
-
-3. Run the skin care detection script:
-
-```bash
-python src/detect_skin_care.py
-```
 
 ## Model Details
 
@@ -43,7 +35,8 @@ The skin care detection model is implemented using a CNN architecture. The CNN h
 
 ## Results
 
-![image](https://github.com/MadanBabu1314114/Skin-Care-Detection-Using-DL/assets/123216438/b5b07fb8-3725-44d4-983e-f997b5b71acf)
+![image](https://github.com/MadanBabu1314114/Skin-Care-Detection-Using-DL/assets/123216438/b5b07fb8-3725-44d4-983e-f997b5b71acf)![image](https://github.com/MadanBabu1314114/Skin-Care-Detection-Using-DL/assets/123216438/084b21de-9620-4b0f-8002-1aec75525a10)
+
 
 
 The trained model achieves an accuracy of 98% on the skin care detection task. 
